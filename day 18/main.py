@@ -1,4 +1,6 @@
 from turtle import Turtle,Screen
+import heroes
+print(heroes.gen())
 #from turtle import *#* means =>import everything in that  module
 # import turtle as t
 # timmy=t.Turtle()
